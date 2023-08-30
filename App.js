@@ -5,6 +5,7 @@ import Botoes from './components/Botoes';
 import Pagina1 from './screens/Pagina1';
 import Pagina2 from './screens/Pagina2';
 import Pagina3 from './screens/Pagina3';
+<<<<<<< HEAD
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Arrays from './screens/Arrays';
@@ -24,7 +25,16 @@ export default function App() {
         </Stack.Navigator>
       </NavigationContainer>
 
+<<<<<<< HEAD
 
+=======
+    <NavigationContainer>
+        
+      
+    </NavigationContainer>
+
+    </ScrollView>
+>>>>>>> d493d472d06dbf83cf8fe59aa49e59fdebc27b44
   );
 }
 
